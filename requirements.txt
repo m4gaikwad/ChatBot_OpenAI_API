@@ -1,0 +1,8 @@
+gradio
+PyPDF2
+openai
+langchain-openai
+langchain-community
+langchain
+llama-index
+llama-index-llms-langchain
